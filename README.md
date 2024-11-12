@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **my degree**
 
-- 🌱 I’m currently learning **Machine Learning and Django**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python**
 

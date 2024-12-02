@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my degree**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, PyTorch**
 
 - 💬 Ask me about **Python**
 

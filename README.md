@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssanad&label=Profile%20views&color=0e75b6&style=flat" alt="itssanad" /> </p>
 
-- 🔭 I’m currently working on **my degree**
+- 🔭 I’m currently working on **Computer Science degree**
 
 - 🌱 I’m currently learning **Machine Learning, PyTorch**
 

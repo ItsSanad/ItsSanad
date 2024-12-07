@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanad-alsalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanad-alsalmi-a93700238" height="30" width="40" /></a>
-<a href="https://instagram.com/alsalmi.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alsalmi.dev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sanad_alsalmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alsalmi.dev" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/isanad" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="alsalmi.dev" height="30" width="65" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

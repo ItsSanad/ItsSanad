@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Computer Science degree**
 
-- 👨‍💻 I’m currently learning **Machine Learning**
+- 👨‍💻 I’m currently learning **Deep Learning and Drones**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python and Drones**
 
 - 📫 How to reach me **alsalmisanad@gmail.com** 
 

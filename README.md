@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Computer Science degree**
 
-- 👨‍💻 I’m currently learning **Deep Learning and Drones**
+- 👨‍💻 I’m currently learning **Computer Vision and Drones**
 
 - 💬 Ask me about **Python and Drones**
 

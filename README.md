@@ -1,14 +1,14 @@
 <h1 align="center">Sanad Al Salmi</h1>
-<h3 align="center">Drone & AI Software Engineer · Muscat, Oman</h3>
+<h3 align="center">Software Engineer · Android & Embedded Systems for Drones · Muscat, Oman</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itssanad&label=Profile%20views&color=0e75b6&style=flat" alt="itssanad" />
 </p>
 
-- 🔭 Currently building **M3M Field Inspector** — a custom Android app for DJI enterprise drone operations using DJI Mobile SDK V5
-- 🌍 Working at **Ankaa Space & Technologies** on multispectral inspection workflows
+- 🛰️ Built **M3M Field Inspector** — a custom Android app for DJI enterprise drone field operations, deployed on AOSP hardware with no Google Play Services (DJI Mobile SDK V5)
+- 🌍 Drone Software Engineer at **Ankaa Space & Technologies** (Mar–Jun 2026), multispectral inspection workflows
 - 🏆 1st Place — Oman RC & AI-Enhanced Drones Competition (2nd Edition)
-- 💬 Ask me about **DJI MSDK V5, Computer Vision, UAV Systems, Python**
+- 💬 Ask me about **DJI MSDK V5, Android, Computer Vision, UAV Systems, Python**
 - 📫 Reach me at **alsalmisanad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
